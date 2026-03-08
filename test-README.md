@@ -21,9 +21,9 @@
 ## 🎮 Games
 
 <div align="center">
-  <table width="table-layout: fixed; width: 80%;">
+  <table style="table-layout: fixed; width: 80%; border-collapse: separate; border-spacing: 15px 0;">
     <tr>
-      <td style="border: 2px solid #ffff00; border-radius: 0px; padding: 4px; background-color: #000000;" width="49%">
+      <td valign="top" style="border: 1px solid #f2ff00; border-radius: 10px; padding: 20px;">
         <a href="https://github.com/BZ-Interactive/game-one">
           <img src="assets/BZ-Nota_web_logo.webp" width="80" align="left" style="margin-right:12px"/>
           <strong>BZ-Nota</strong><br/>
@@ -31,8 +31,8 @@
           <sub>built on C++ with Markdown support.</sub>
         </a>
       </td>
-      <td width="2%"></td>
-      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
+      <!-- <td width="2%"></td> -->
+      <td style="valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
         <a href="https://github.com/BZ-Interactive/game-one">
           <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
           <strong>BZ-Nota</strong><br/>
