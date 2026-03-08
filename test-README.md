@@ -23,12 +23,12 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="15" style="border: none; border-collapse: collapse; width: 100%; max-width: 900px; table-layout: fixed;">
     <tr>
-      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto;"></a></td>
-      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto;"></a></td>
+      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto; border: none;"></a></td>
+      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto; border: none;"></a></td>
     </tr>
     </tr>
-      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto;"></a></td>
-      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto;"></a></td>
+      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto; border: none;"></a></td>
+      <td><a href="URL"><img src="assets/BZ-Nota.svg" style="width: 100%; height: auto; border: none;"></a></td>
     </tr>
     <!-- <tr>
       <td><a href="URL"><img src="assets/card5.svg" width="200"></a></td>
