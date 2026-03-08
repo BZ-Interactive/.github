@@ -1,7 +1,7 @@
 <svg width="450" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect x="1" y="1" width="398" height="118" rx="10" fill="#000000" stroke="#fff700" stroke-width="5"/>
   
-  <image href="https://raw.githubusercontent.com/BZ-Interactive/BZ-Nota/main/docs/BZ-Nota_web_logo.webp" x="15" y="15" width="80" height="80" />
+  <image href="BZ-Nota_web_logo.webp" x="15" y="15" width="80" height="80" />
 
   <text x="100" y="40" fill="#f2ff00" font-family="Arial, sans-serif" font-size="25" font-weight="bold">BZ-Nota</text>
   <text x="100" y="68" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Fast, Lightweight TUI Text Editor.</text>
