@@ -21,57 +21,11 @@
 ## 🎮 Games
 
 <div align="center">
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="600"></a>
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="600"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="500"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="500"></a>
   <br>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="400"></a>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="400"></a>
-</div>
-
-<div align="center">
-  <table style="table-layout: fixed; width: 80%; border-collapse: separate; border-spacing: 15px 15px;">
-    <tr>
-      <td valign="top" style="border: 5px solid #f2ff00; border-radius: 10px; padding: 20px;">
-        <a href="https://github.com/BZ-Interactive/game-one">
-          <img src="assets/BZ-Nota_web_logo.webp" width="80" align="left" style="margin-right:12px"/>
-          <strong>BZ-Nota</strong><br/>
-          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
-          <sub>built on C++ with Markdown support.</sub>
-        </a>
-      </td>
-      <!-- <td width="2%"></td> -->
-      <td valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-        <a href="https://github.com/BZ-Interactive/game-one">
-          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
-          <strong>BZ-Nota</strong><br/>
-          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
-          <sub>built on C++ with Markdown support.</sub>
-        </a>
-      </td>
-    </tr>
-    <tr height="20">
-      <td></td>
-    </tr>
-    <tr>
-      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
-        <a href="https://github.com/BZ-Interactive/game-one">
-          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
-          <strong>BZ-Nota</strong><br/>
-          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
-          <sub>built on C++ with Markdown support.</sub>
-        </a>
-      </td>
-      <td width="2%"></td>
-      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
-        <a href="https://github.com/BZ-Interactive/game-one">
-          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
-          <strong>BZ-Nota</strong><br/>
-          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
-          <sub>built on C++ with Markdown support.</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 ---
 
