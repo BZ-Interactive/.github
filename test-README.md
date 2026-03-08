@@ -21,8 +21,8 @@
 ## 🎮 Games
 
 <div align="center">
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="500"></a>
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="500"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a>
   <br>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="400"></a>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="400"></a>
