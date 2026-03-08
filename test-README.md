@@ -21,7 +21,7 @@
 ## 🎮 Games
 
 <div align="center">
-  <table width="75%">
+  <table width="90%">
     <tr>
       <td style="border: 2px solid #ffff00; border-radius: 0px; padding: 4px; background-color: #000000;" width="49%">
         <a href="https://github.com/BZ-Interactive/game-one">
