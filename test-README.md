@@ -21,7 +21,7 @@
 ## 🎮 Games
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="10">
+  <table border="0" cellpadding="0" cellspacing="10" style="width: 100%; max-width: 900px; table-layout: fixed;">
     <tr>
       <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
       <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
@@ -30,12 +30,12 @@
       <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
       <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><a href="URL"><img src="assets/card5.svg" width="200"></a></td>
       <td><a href="URL"><img src="assets/card6.svg" width="200"></a></td>
       <td><a href="URL"><img src="assets/card7.svg" width="200"></a></td>
       <td><a href="URL"><img src="assets/card8.svg" width="200"></a></td>
-    </tr>
+    </tr> -->
     </table>
 </div>
 
