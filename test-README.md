@@ -21,6 +21,25 @@
 ## 🎮 Games
 
 <div align="center">
+  <table border="0" cellpadding="10" cellspacing="10">
+    <tr>
+      <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
+      <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
+    </tr>
+    </tr>
+      <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
+      <td><a href="URL"><img src="assets/svg/BZ-Nota.svg" width="200"></a></td>
+    </tr>
+    <tr>
+      <td><a href="URL"><img src="assets/card5.svg" width="200"></a></td>
+      <td><a href="URL"><img src="assets/card6.svg" width="200"></a></td>
+      <td><a href="URL"><img src="assets/card7.svg" width="200"></a></td>
+      <td><a href="URL"><img src="assets/card8.svg" width="200"></a></td>
+    </tr>
+    </table>
+</div>
+
+<div align="center">
   <table style="table-layout: fixed; width: 80%; border-collapse: separate; border-spacing: 15px 15px;">
     <tr>
       <td valign="top" style="border: 5px solid #f2ff00; border-radius: 10px; padding: 20px;">
