@@ -20,41 +20,51 @@
 
 ## 🎮 Games
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/game-one">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>Project Alpha</strong><br/>
-        <sub>Open-world Godot RPG built entirely in public.</sub>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/game-two">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game2.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>Project Beta</strong><br/>
-        <sub>2D platformer with procedural level generation.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/game-three">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game3.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>Project Gamma</strong><br/>
-        <sub>Top-down shooter, C++ core with Godot frontend.</sub>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/game-four">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game4.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>Project Delta</strong><br/>
-        <sub>Puzzle game — community-designed levels.</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table width="75%">
+    <tr>
+      <td style="border: 2px solid #ffff00; border-radius: 0px; padding: 4px; background-color: #000000;" width="49%">
+        <a href="https://github.com/BZ-Interactive/game-one">
+          <img src="assets/BZ-Nota_web_logo.webp" width="80" align="left" style="margin-right:12px"/>
+          <strong>BZ-Nota</strong><br/>
+          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
+          <sub>built on C++ with Markdown support.</sub>
+        </a>
+      </td>
+      <td width="2%"></td>
+      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
+        <a href="https://github.com/BZ-Interactive/game-one">
+          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
+          <strong>BZ-Nota</strong><br/>
+          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
+          <sub>built on C++ with Markdown support.</sub>
+        </a>
+      </td>
+    </tr>
+    <tr height="20">
+      <td></td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
+        <a href="https://github.com/BZ-Interactive/game-one">
+          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
+          <strong>BZ-Nota</strong><br/>
+          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
+          <sub>built on C++ with Markdown support.</sub>
+        </a>
+      </td>
+      <td width="2%"></td>
+      <td style="border: 2px solid #ffff00; border-radius: 10px; padding: 5px; background-color: #000000;" width="49%">
+        <a href="https://github.com/BZ-Interactive/game-one">
+          <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/game1.png" width="40" align="left" style="margin-right:12px"/>
+          <strong>BZ-Nota</strong><br/>
+          <sub>Fast Lightweight, TUI Text Editor.<br></sub>
+          <sub>built on C++ with Markdown support.</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🖥️ Programs
@@ -100,14 +110,14 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/BZ-Interactive/plugin-one">
         <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin1.png" width="40" align="left" style="margin-right:12px"/>
         <strong>BZ Audio Manager</strong><br/>
         <sub>Godot plugin for dynamic audio mixing.</sub>
       </a>
     </td>
-    <td width="50%">
+    <td>
       <a href="https://github.com/BZ-Interactive/.github/main/assets/icons/plugin2.png">
         <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin2.png" width="40" align="left" style="margin-right:12px"/>
         <strong>BZ Save System</strong><br/>
@@ -116,14 +126,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/BZ-Interactive/plugin-three">
         <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin3.png" width="40" align="left" style="margin-right:12px"/>
         <strong>BZ Input Mapper</strong><br/>
         <sub>Rebindable input system, controller support.</sub>
       </a>
     </td>
-    <td width="50%">
+    <td> <!-- width="50%" -->
       <a href="https://github.com/BZ-Interactive/plugin-four">
         <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin4.png" width="40" align="left" style="margin-right:12px"/>
         <strong>BZ UI Kit</strong><br/>
@@ -135,20 +145,41 @@
 
 ---
 
+## 👥 Team
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3>Barkın Zorlu</h3>
+      <h4>Owner, Lead Developer</h4>
+      <ul>
+        <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>Email:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📬 Contact
 
-| Platform | Link |
-|---|---|
-| GitHub | [@BZ-Interactive](https://github.com/BZ-Interactive) |
-| Discord | [Join the server](https://discord.gg/yourlink) |
-| Website | [bz-interactive.com](https://yourwebsite.com) |
-| Email | contact@bz-interactive.com |
+<td valign="top">
+  <h3>🌐 Connect with Us</h3>
+  <ul>
+    <li><strong>GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+    <li><strong>Discord:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li>
+    <li><strong>Website:</strong> <a href="https://bz-interactive.com">bz-interactive.com</a></li>
+    <li><strong>Email:</strong> contact@bz-interactive.com</li>
+  </ul>
+</td>
 
 ---
 
 ## Contributing
 
-All repositories are open to contributions. Browse a repo, read its `CONTRIBUTING.md`, open an issue to discuss your idea, then submit a PR. No contribution is too small — bug fixes, docs, and new features are all welcome. We aim to review all PRs within a few days.
+All repositories are open to contributions. Browse a repo, read its `CONTRIBUTING.md`, open an issue to discuss your idea, then submit a PR. No contribution is too small — bug fixes, docs, and new features are all welcome.
 
 ---
 
