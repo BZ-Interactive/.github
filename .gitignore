@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# If you use a local editor like BZ-Nota or Neovim
+*.swp
+.undo/
+.directory
+
+# If you test any local web server
+node_modules/
+dist/
