@@ -41,7 +41,7 @@
 ---
 
 ## 👥 Team
-<table width="100%" border="1" cellspacing="0" cellpadding="10">
+<table width="100%" border="1" cellspacing="0" cellpadding="10" align="center">
   <tr>
     <td valign="top"> <!-- width="50%" -->
       <table border="0" cellpadding="0" cellspacing="0">
