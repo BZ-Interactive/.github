@@ -41,7 +41,7 @@
 ---
 
 ## 👥 Team
-<table width="100%" border="1" cellspacing="0" cellpadding="10" align="center">
+<table width="100%" border="1" cellspacing="0" cellpadding="10" align="center"> <!-- Max limit is 3 STRICTLY -->
   <tr>
     <td valign="top"> <!-- width="50%" -->
       <table border="0" cellpadding="0" cellspacing="0">
