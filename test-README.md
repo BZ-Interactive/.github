@@ -1,19 +1,11 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/logo.png" width="110" align="left"/>
-
-# BZ-Interactive
-### Open-Source Games & Applications
-*Built with C++, C# and Godot — everything in public.*
-
-<br clear="left"/>
+<img src="assets/header.svg" width="100%" align="center"style="display: block; margin-bottom: 0;"/>
 
 ![C++](https://img.shields.io/badge/C++-F5C518?style=flat-square&logo=cplusplus&logoColor=0A0A0A)
 ![C#](https://img.shields.io/badge/C%23-F5C518?style=flat-square&logo=csharp&logoColor=0A0A0A)
 ![Godot](https://img.shields.io/badge/Godot_Engine-F5C518?style=flat-square&logo=godotengine&logoColor=0A0A0A)
 ![Open Source](https://img.shields.io/badge/Open_Source-ffffff?style=flat-square&logo=github&logoColor=0A0A0A)
 ![MIT License](https://img.shields.io/badge/License-MIT-ffffff?style=flat-square&logoColor=0A0A0A)
-
 </div>
 
 ---
