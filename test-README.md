@@ -21,9 +21,9 @@
 ## 🎮 Games
 
 <div align="center">
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="49.8%"></a><a href="URL"><img src="assets/BZ-Nota.svg" width="49.8%"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="49%"></a><a href="URL"><img src="assets/BZ-Nota.svg" width="49%"></a>
   <br>
-  <a href="URL"><img src="assets/BZ-Nota.svg" width="49.8%"></a><a href="URL"><img src="assets/BZ-Nota.svg" width="49.8%"></a>
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="49%"></a><a href="URL"><img src="assets/BZ-Nota.svg" width="49%"></a>
 </div>
 ---
 
