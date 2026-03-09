@@ -24,81 +24,19 @@
 </div>
 ---
 
-## 🖥️ Programs
+## 🔧 Tools
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/bz-toolkit">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/toolkit.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Toolkit</strong><br/>
-        <sub>Modular C++ utility library for devs.</sub>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/bz-launcher">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/launcher.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Launcher</strong><br/>
-        <sub>C# app launcher for all BZ-Interactive titles.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/bz-editor">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/editor.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Editor Tools</strong><br/>
-        <sub>Custom Godot editor plugins and scripts.</sub>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BZ-Interactive/bz-builder">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/builder.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Builder</strong><br/>
-        <sub>CI/CD pipeline tooling for Godot projects.</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> 
+</div>
 
 ---
 
 ## 🔌 Plugins
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/BZ-Interactive/plugin-one">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin1.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Audio Manager</strong><br/>
-        <sub>Godot plugin for dynamic audio mixing.</sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/BZ-Interactive/.github/main/assets/icons/plugin2.png">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin2.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Save System</strong><br/>
-        <sub>Lightweight save/load plugin for Godot.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/BZ-Interactive/plugin-three">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin3.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ Input Mapper</strong><br/>
-        <sub>Rebindable input system, controller support.</sub>
-      </a>
-    </td>
-    <td> <!-- width="50%" -->
-      <a href="https://github.com/BZ-Interactive/plugin-four">
-        <img src="https://raw.githubusercontent.com/BZ-Interactive/.github/main/assets/icons/plugin4.png" width="40" align="left" style="margin-right:12px"/>
-        <strong>BZ UI Kit</strong><br/>
-        <sub>Reusable Godot UI components and themes.</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> 
+</div>
 
 ---
 
@@ -108,6 +46,16 @@
     <td valign="top">
       <h3>Barkın Zorlu</h3>
       <h4>Owner, Lead Developer</h4>
+      <ul>
+        <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>Email:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Deniz Yılmaz</h3>
+      <h4>Developer</h4>
       <ul>
         <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
         <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
