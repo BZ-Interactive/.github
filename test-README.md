@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header.svg?v=1" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 <p>&nbsp;</p>
 
 ![C++](https://img.shields.io/badge/C++-015B97?style=flat-square&logo=cplusplus&logoColor=ffffff)
