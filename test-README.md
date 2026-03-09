@@ -2,11 +2,13 @@
 <img src="assets/header.svg?v=1" width="100%"/>
 <p>&nbsp;</p>
 
-![C++](https://img.shields.io/badge/C++-F5C518?style=flat-square&logo=cplusplus&logoColor=0A0A0A)
-![C#](https://img.shields.io/badge/C%23-F5C518?style=flat-square&logo=csharp&logoColor=0A0A0A)
-![Godot](https://img.shields.io/badge/Godot_Engine-F5C518?style=flat-square&logo=godotengine&logoColor=0A0A0A)
-![Open Source](https://img.shields.io/badge/Open_Source-ffffff?style=flat-square&logo=github&logoColor=0A0A0A)
-![MIT License](https://img.shields.io/badge/License-MIT-ffffff?style=flat-square&logoColor=0A0A0A)
+![C++](https://img.shields.io/badge/C++-015B97?style=flat-square&logo=cplusplus&logoColor=ffffff)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+![Godot](https://img.shields.io/badge/Godot_Engine-468CBE?style=flat-square&logo=godotengine&logoColor=ffffff)
+![Open Source](https://img.shields.io/badge/Open_Source-964A8E?style=flat-square&logo=github&logoColor=0A0A0A)
+![MIT License](https://img.shields.io/badge/License-MIT-AA0000?style=flat-square&logoColor=#AA0000)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 </div>
 
 ---
