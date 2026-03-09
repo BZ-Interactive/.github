@@ -1,5 +1,6 @@
 <div align="center">
-<img src="assets/header.svg" width="100%" align="center"style="display: block; margin-bottom: 0;"/>
+<img src="assets/header.svg?v=1" width="100%" align="center"style="display: block; margin-bottom: 0;"/>
+<br>
 
 ![C++](https://img.shields.io/badge/C++-F5C518?style=flat-square&logo=cplusplus&logoColor=0A0A0A)
 ![C#](https://img.shields.io/badge/C%23-F5C518?style=flat-square&logo=csharp&logoColor=0A0A0A)
