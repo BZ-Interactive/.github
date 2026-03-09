@@ -41,26 +41,66 @@
 ---
 
 ## 👥 Team
-<table width="100%">
+<table width="100%" border="1" cellspacing="0" cellpadding="10">
   <tr>
-    <td valign="top">
-      <h3>Barkın Zorlu</h3>
-      <h4>Owner, Lead Developer</h4>
-      <ul>
+    <td valign="top"> <!-- width="50%" -->
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="middle" style="padding-right: 10px;">
+            <img src="https://github.com/ZorluBarkin.png" width="60">
+          </td>
+          <td valign="middle">
+            <h3 style="margin: 0;">Barkın Zorlu</h3>
+            <p style="margin: 0;"><strong>Owner, Lead Developer</strong></p>
+          </td>
+        </tr>
+      </table>
+      <hr>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
         <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-        <li><strong>Email:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/ZorluBarkin">@ZorluBarkin</a></li>
+        <!-- <li><strong>Matrix:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li> -->
       </ul>
     </td>
-    <td valign="top">
-      <h3>Deniz Yılmaz</h3>
-      <h4>Developer</h4>
-      <ul>
+    <td valign="top"> <!-- width="50%" -->
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="middle" style="padding-right: 10px;">
+            <img src="https://github.com/DeezYilmaz.png" width="60">
+          </td>
+          <td valign="middle">
+            <h3 style="margin: 0;">Deniz Yılmaz</h3>
+            <p style="margin: 0;"><strong>Developer</strong></p>
+          </td>
+        </tr>
+      </table>
+      <hr>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
         <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-        <li><strong>Email:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/DeezYilmaz">@DenizYilmaz</a></li>
+        <!-- <li><strong>Matrix:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li> -->
+      </ul>
+    </td>
+    <td valign="top"> <!-- width="50%" -->
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="middle" style="padding-right: 10px;">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60">
+          </td>
+          <td valign="middle">
+            <h3 style="margin: 0;">Unnamed</h3>
+            <p style="margin: 0;"><strong>Designer</strong></p>
+          </td>
+        </tr>
+      </table>
+      <hr>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li><strong>Portfolio:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>Resume:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+        <li><strong>GitHub:</strong> <a href="">@Someone</a></li>
+        <!-- <li><strong>Matrix:</strong> <a href="https://discord.gg/yourlink">Join the server</a></li> -->
       </ul>
     </td>
   </tr>
