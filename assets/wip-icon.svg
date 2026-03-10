@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <clipPath id="rounded">
+      <rect width="100" height="100" rx="14" ry="14"/>
+    </clipPath>
+    <pattern id="diagStripes" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#1c1c1c"/>
+      <polygon points="0,0 10,0 20,20 10,20" fill="#f5a623"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100" height="100" rx="14" ry="14" fill="#1c1c1c"/>
+
+  <g clip-path="url(#rounded)">
+    <!-- Top diagonal stripe band -->
+    <rect x="0" y="0" width="100" height="24" fill="url(#diagStripes)"/>
+
+    <!-- Bottom diagonal stripe band -->
+    <rect x="0" y="76" width="100" height="24" fill="url(#diagStripes)"/>
+  </g>
+
+  <!-- Divider lines -->
+  <line x1="0" y1="24" x2="100" y2="24" stroke="#f5a623" stroke-width="1.5"/>
+  <line x1="0" y1="76" x2="100" y2="76" stroke="#f5a623" stroke-width="1.5"/>
+
+  <!-- WIP text -->
+  <text x="50" y="58" font-family="'Courier New', monospace" font-size="22" font-weight="700"
+        fill="#f5a623" text-anchor="middle" letter-spacing="2">WIP</text>
+</svg>
