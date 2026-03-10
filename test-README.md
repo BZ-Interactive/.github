@@ -18,6 +18,7 @@
   <br>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> -->
 </div>
+
 ---
 
 ## 🔧 Tools
