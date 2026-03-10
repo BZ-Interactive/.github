@@ -84,10 +84,10 @@
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60">
+            <img src="https://github.com/Gokhan-IRTEM.png" width="60">
           </td>
           <td valign="middle">
-            <h3 style="margin: 0;">Unnamed</h3>
+            <h3 style="margin: 0;">Gökhan İrtem</h3>
             <p style="margin: 0;"><strong>Designer</strong></p>
           </td>
         </tr>
@@ -95,9 +95,9 @@
       <hr>
       <ul style="list-style-type: none; padding-left: 0;">
         <!-- <li><a href="">🌐 Portfoio</a></li> -->
-        <li><a href="">📄 Resume</a></li>
-        <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href=""></a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href=""></a></li>
+        <!-- <li><a href="">📄 Resume</a></li> -->
+        <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/Gokhan-IRTEM">@Gokhan-IRTEM</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/g%C3%B6khanirtem1/">@gökhanirtem1</a></li>
       </ul>
     </td>
   </tr>
