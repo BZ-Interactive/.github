@@ -54,7 +54,7 @@
       </table>
       <hr>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li><a href="">🌐 Portfoio - Coming Soon.</a></li>
+        <!-- <li><a href="">🌐 Portfoio</a></li> -->
         <li><a href="https://zorlubarkin.github.io/BZ-Resume/">📄 Resume</a></li>
         <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/ZorluBarkin">@ZorluBarkin</a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/barkin-zorlu/">@barkin-zorlu</a></li>
@@ -74,7 +74,7 @@
       </table>
       <hr>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li><a href="">🌐 Portfoio</a></li>
+        <!-- <li><a href="">🌐 Portfoio</a></li> -->
         <li><a href="https://deezyilmaz.github.io/resume/">📄 Resume</a></li>
         <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/DeezYilmaz">@DenizYilmaz</a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/denizyilmaz2021/">@denizyilmaz2021</a></li>
@@ -94,7 +94,7 @@
       </table>
       <hr>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li><a href="">🌐 Portfoio</a></li>
+        <!-- <li><a href="">🌐 Portfoio</a></li> -->
         <li><a href="">📄 Resume</a></li>
         <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href=""></a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href=""></a></li>
