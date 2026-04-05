@@ -95,7 +95,7 @@
       <hr>
       <ul style="list-style-type: none; padding-left: 0;">
         <!-- <li><a href="">🌐 Portfoio</a></li> -->
-        <!-- <li><a href="">📄 Resume</a></li> -->
+        <li><a href="https://gokhan-irtem.github.io/Resume/">📄 Resume</a></li>
         <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/Gokhan-IRTEM">@Gokhan-IRTEM</a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/g%C3%B6khanirtem1/">@gökhanirtem1</a></li>
       </ul>
