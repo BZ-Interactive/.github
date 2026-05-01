@@ -44,7 +44,7 @@
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/ZorluBarkin.png" width="70">
+            <img src="https://github.com/ZorluBarkin.png" width="60">
           </td>
           <td valign="middle">
             <h2 style="margin: 0;">Barkın Zorlu</h2>
@@ -70,7 +70,7 @@
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/DeezYilmaz.png" width="70">
+            <img src="https://github.com/DeezYilmaz.png" width="60">
           </td>
           <td valign="middle">
             <h2 style="margin: 0;">Deniz Yılmaz</h2>
@@ -92,7 +92,7 @@
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/Gokhan-IRTEM.png" width="70">
+            <img src="https://github.com/Gokhan-IRTEM.png" width="60">
           </td>
           <td valign="middle">
             <h2 style="margin: 0;">Gökhan İrtem</h2>
