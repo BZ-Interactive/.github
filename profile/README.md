@@ -38,84 +38,80 @@
 ---
 
 ## 👥 Team
-<table width="100%" border="1" cellspacing="0" cellpadding="10" align="center"> <!-- Max limit is 3 STRICTLY -->
+<table width="100%" border="1" cellspacing="0" cellpadding="10" align="center">
   <tr>
-    <td valign="top"> <!-- width="50%" -->
+    <td valign="top" align="center">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/ZorluBarkin.png" width="60">
+            <img src="https://github.com/ZorluBarkin.png" width="70">
           </td>
           <td valign="middle">
-            <h3 style="margin: 0;">Barkın Zorlu</h3>
-            <p style="margin: 0;"><strong>Owner, Lead Developer</strong></p>
+            <h2 style="margin: 0;">Barkın Zorlu</h2>
+            <p style="margin: 0;"><span>Owner, Lead Developer</span></p>
           </td>
         </tr>
       </table>
       <hr>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <!-- <li><a href="">🌐 Portfoio</a></li> -->
-        <li><a href="https://zorlubarkin.github.io/BZ-Resume/">📄 Resume</a></li>
-        <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/ZorluBarkin">@ZorluBarkin</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/barkin-zorlu/">@barkin-zorlu</a></li>
-      </ul>
+      <div style="margin-top: 12px;">
+        <a href="https://zorlubarkin.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="https://zorlubarking.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
+        <a href="https://codeberg.org/ZorluBarking"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Codeberg"></a>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="https://www.linkedin.com/in/barkin-zorlu/"> <img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:barkin.zorlu.bz@gmail.com"> <img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
+      </div>
     </td>
-    <td valign="top"> <!-- width="50%" -->
+    <td valign="top" align="center">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/DeezYilmaz.png" width="60">
+            <img src="https://github.com/DeezYilmaz.png" width="70">
           </td>
           <td valign="middle">
-            <h3 style="margin: 0;">Deniz Yılmaz</h3>
-            <p style="margin: 0;"><strong>Developer</strong></p>
+            <h2 style="margin: 0;">Deniz Yılmaz</h2>
+            <p style="margin: 0;"><span>Developer</span></p>
           </td>
         </tr>
       </table>
       <hr>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <!-- <li><a href="">🌐 Portfoio</a></li> -->
-        <li><a href="https://deezyilmaz.github.io/resume/">📄 Resume</a></li>
-        <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/DeezYilmaz">@DenizYilmaz</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/denizyilmaz2021/">@denizyilmaz2021</a></li>
-      </ul>
+      <div style="margin-top: 12px;">
+        <a href="https://deezyilmaz.github.io/resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/DeezYilmaz"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="https://www.linkedin.com/in/denizyilmaz2021/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:dnzylmz2021@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
+      </div>
     </td>
-    <td valign="top"> <!-- width="50%" -->
+    <td valign="top" align="center">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/Gokhan-IRTEM.png" width="60">
+            <img src="https://github.com/Gokhan-IRTEM.png" width="70">
           </td>
           <td valign="middle">
-            <h3 style="margin: 0;">Gökhan İrtem</h3>
-            <p style="margin: 0;"><strong>Designer</strong></p>
+            <h2 style="margin: 0;">Gökhan İrtem</h2>
+            <p style="margin: 0;"><span>Designer</span></p>
           </td>
         </tr>
       </table>
       <hr>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <!-- <li><a href="">🌐 Portfoio</a></li> -->
-        <li><a href="https://gokhan-irtem.github.io/Resume/">📄 Resume</a></li>
-        <li><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"><strong> GitHub:</strong> <a href="https://github.com/Gokhan-IRTEM">@Gokhan-IRTEM</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" height="15" valign="middle"><strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/g%C3%B6khanirtem1/">@gökhanirtem1</a></li>
-      </ul>
+      <div style="margin-top: 12px;">
+        <a href="https://gokhan-irtem.github.io/Resume/">
+          <img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/Gokhan-IRTEM"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="https://www.linkedin.com/in/gökhanirtem1/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:gokirtem@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
     </td>
   </tr>
 </table>
-
----
-
-## 📬 Contact
-
-<td valign="top">
-  <h3>🌐 Connect with Us</h3>
-  <ul>
-    <li><strong><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"> GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-    <!-- <li><strong>Matrix:</strong> <a href="">Join the server</a></li> -->
-    <!-- <li><strong>Website:</strong> <a href="https://bz-interactive.com">bz-interactive.com</a></li> -->
-    <li><strong>📧 Email:</strong> barkin.zorlu.bz@gmail.com</li>
-  </ul>
-</td>
 
 ---
 
