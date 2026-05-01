@@ -14,7 +14,7 @@
 ## 🎮 Games
 
 <div align="center">
-  <a href="https://bz-interactive.github.io/Painting-Fever/"><img src="assets/games/Painting-Fever.svg" width="45%"> </a> <a href="https://github.com/BZ-Interactive/Alien-Invaders"><img src="assets/games/Alien-Invaders.svg" width="45%"></a>
+  <a href="https://bz-interactive.github.io/Painting-Fever/"><img src="assets/games/Painting-Fever.svg" width="45%"></a> <a href="https://github.com/BZ-Interactive/Alien-Invaders"><img src="assets/games/Alien-Invaders.svg" width="45%"></a>
   <!-- <br>
   <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> <a href="URL"><img src="assets/BZ-Nota.svg" width="45%"></a> -->
 </div>
