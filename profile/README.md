@@ -115,6 +115,21 @@
 
 ---
 
+## 📬 Contact
+
+<td valign="top">
+  <h3>🌐 Connect with Us</h3>
+  <ul>
+    <li><strong><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"> GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
+    <li><strong><img src="https://cdn.simpleicons.org/codeberg/white" width="15" height="15" valign="middle"> Codeberg:</strong> <a href="https://codeberg.org/BZ-Interactive">@BZ-Interactive</a></li>
+    <!-- <li><strong>Matrix:</strong> <a href="">Join the server</a></li> -->
+    <!-- <li><strong>Website:</strong> <a href="https://bz-interactive.com">bz-interactive.com</a></li> -->
+    <li><strong>📧 Email:</strong> barkin.zorlu.bz@gmail.com</li>
+  </ul>
+</td>
+
+---
+
 ## Contributing
 
 All repositories are open to contributions. Browse a repo, read its `README.md`, open an issue to discuss your idea or fix, then submit a PR. No contribution is too small — bug fixes, docs, and new features are all welcome.
