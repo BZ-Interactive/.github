@@ -54,16 +54,16 @@
       </table>
       <hr>
       <div style="margin-top: 12px;">
-        <a href="https://zorlubarkin.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+        <a href="https://zorlubarkin.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
-        <a href="https://zorlubarking.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
-        <a href="https://codeberg.org/ZorluBarking"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Codeberg"></a>
+        <a href="https://zorlubarking.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=plastic&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
+        <a href="https://codeberg.org/ZorluBarking"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Codeberg"></a>
       </div>
       <div style="margin-top: 12px;">
-        <a href="https://www.linkedin.com/in/barkin-zorlu/"> <img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
-        <a href="mailto:barkin.zorlu.bz@gmail.com"> <img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
+        <a href="https://www.linkedin.com/in/barkin-zorlu/"> <img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:barkin.zorlu.bz@gmail.com"> <img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
       </div>
     </td>
     <td valign="top" align="center">
@@ -80,12 +80,12 @@
       </table>
       <hr>
       <div style="margin-top: 12px;">
-        <a href="https://deezyilmaz.github.io/resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/DeezYilmaz"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+        <a href="https://deezyilmaz.github.io/resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/DeezYilmaz"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
-        <a href="https://www.linkedin.com/in/denizyilmaz2021/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
-        <a href="mailto:dnzylmz2021@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
+        <a href="https://www.linkedin.com/in/denizyilmaz2021/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:dnzylmz2021@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
       </div>
     </td>
     <td valign="top" align="center">
@@ -103,12 +103,12 @@
       <hr>
       <div style="margin-top: 12px;">
         <a href="https://gokhan-irtem.github.io/Resume/">
-          <img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=adobe-acrobat-reader&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/Gokhan-IRTEM"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=flat&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+          <img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://github.com/Gokhan-IRTEM"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
-        <a href="https://www.linkedin.com/in/gökhanirtem1/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=flat&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
-        <a href="mailto:gokirtem@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=flat&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
+        <a href="https://www.linkedin.com/in/gökhanirtem1/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
+        <a href="mailto:gokirtem@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
     </td>
   </tr>
 </table>
@@ -118,14 +118,15 @@
 ## 📬 Contact
 
 <td valign="top">
-  <h3>🌐 Connect with Us</h3>
-  <ul>
-    <li><strong><img src="https://cdn.simpleicons.org/github/white" width="15" height="15" valign="middle"> GitHub:</strong> <a href="https://github.com/BZ-Interactive">@BZ-Interactive</a></li>
-    <li><strong><img src="https://cdn.simpleicons.org/codeberg/white" width="15" height="15" valign="middle"> Codeberg:</strong> <a href="https://codeberg.org/BZ-Interactive">@BZ-Interactive</a></li>
-    <!-- <li><strong>Matrix:</strong> <a href="">Join the server</a></li> -->
-    <!-- <li><strong>Website:</strong> <a href="https://bz-interactive.com">bz-interactive.com</a></li> -->
-    <li><strong>📧 Email:</strong> barkin.zorlu.bz@gmail.com</li>
-  </ul>
+  <div style="margin-top: 16px;">
+    <a href="https://github.com/BZ-Interactive"><img src="https://img.shields.io/badge/GitHub%3A%20BZ--Interactive-6e3be8?logo=github&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="GitHub" ></a>
+  </div>
+  <div style="margin-top: 16px;">
+    <a href="https://codeberg.org/BZ-Interactive"><img src="https://img.shields.io/badge/Codeberg%3A%20BZ--Interactive-66ccff?logo=codeberg&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="Codeberg"></a>
+  </div>
+  <div style="margin-top: 16px;">
+    <a href="mailto:barkin.zorlu.bz@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20barkin.zorlu.bz%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="Email"></a>
+  </div>
 </td>
 
 ---
