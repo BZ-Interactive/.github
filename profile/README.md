@@ -1,14 +1,13 @@
 <div align="center">
-<img src="assets/header.svg" width="100%"/>
-<p>&nbsp;</p>
+  <img src="assets/header.svg" width="100%"/>
+  <p>&nbsp;</p>
 
-[![C++](https://img.shields.io/badge/C++-015B97?style=flat-square&logo=cplusplus&logoColor=ffffff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Godot](https://img.shields.io/badge/Godot_Engine-468CBE?style=flat-square&logo=godotengine&logoColor=ffffff)](#)
-[![Open Source](https://img.shields.io/badge/Open_Source-964A8E?style=flat-square&logo=github&logoColor=0A0A0A)](#)
-[![MIT License](https://img.shields.io/badge/License-MIT-AA0000?style=flat-square&logoColor=#AA0000)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+  <a href="#"><img src="https://img.shields.io/badge/C++-015B97?style=flat-square&logo=cplusplus&logoColor=ffffff" style="height: 30px; width: auto;"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white" style="height: 30px; width: auto;"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Godot_Engine-468CBE?style=flat-square&logo=godotengine&logoColor=ffffff" style="height: 30px; width: auto;"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open_Source-F5F5F5?style=flat-square&logo=git&logoColor=FFFFFF&color=F05032" style="height: 30px; width: auto;"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" style="height: 30px; width: auto;"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white" style="height: 30px; width: auto;"></a>
 </div>
 
 ## 🎮 Games
