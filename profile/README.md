@@ -10,6 +10,13 @@
   <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white" style="height: 30px; width: auto;"></a>
 </div>
 
+<div align="center">
+  <a href="https://bz-interactive.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="width: auto; height: 32px;" valign="middle" alt="itch.io"></a> 
+  <a href="https://github.com/BZ-Interactive"><img src="https://img.shields.io/badge/GitHub-6e3be8?logo=github&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="GitHub" ></a> 
+  <a href="https://codeberg.org/BZ-Interactive"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="Codeberg"></a> 
+  <a href="mailto:barkin.zorlu.bz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="Email"></a>
+</div>
+
 ## 🎮 Games
 
 <div align="center">
@@ -114,7 +121,7 @@
 
 ---
 
-## 📬 Contact
+<!-- ## 📬 Contact
 
 <td valign="top">
   <div style="margin-top: 16px;">
@@ -131,7 +138,7 @@
   </div>
 </td>
 
----
+--- -->
 
 ## Contributing
 
