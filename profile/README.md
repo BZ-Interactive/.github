@@ -57,7 +57,7 @@
         <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
-        <a href="https://zorlubarking.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=plastic&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
+        <a href="https://bz-interactive.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=plastic&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
         <a href="https://codeberg.org/ZorluBarking"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Codeberg"></a>
       </div>
       <div style="margin-top: 12px;">
@@ -117,6 +117,9 @@
 ## 📬 Contact
 
 <td valign="top">
+  <div style="margin-top: 16px;">
+    <a href="https://bz-interactive.itch.io"><img src="https://img.shields.io/badge/itch.io%3A%20BZ--Interactive-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
+  </div>
   <div style="margin-top: 16px;">
     <a href="https://github.com/BZ-Interactive"><img src="https://img.shields.io/badge/GitHub%3A%20BZ--Interactive-6e3be8?logo=github&logoColor=white&style=for-the-badge" style="height: 32px; width: auto;" alt="GitHub" ></a>
   </div>
