@@ -43,7 +43,7 @@
 
 ---
 
-## 👥 Team
+## 👥 Owner
 <table width="100%" border="1" cellspacing="0" cellpadding="10" align="center">
   <tr>
     <td valign="top" align="center">
@@ -71,51 +71,6 @@
         <a href="https://www.linkedin.com/in/barkin-zorlu/"> <img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
         <a href="mailto:barkin.zorlu.bz@gmail.com"> <img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
       </div>
-    </td>
-    <td valign="top" align="center">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/DeezYilmaz.png" width="60">
-          </td>
-          <td valign="middle">
-            <h2 style="margin: 0;">Deniz Yılmaz</h2>
-            <p style="margin: 0;"><span>Developer</span></p>
-          </td>
-        </tr>
-      </table>
-      <hr>
-      <div style="margin-top: 12px;">
-        <a href="https://deezyilmaz.github.io/resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/DeezYilmaz"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
-      </div>
-      <div style="margin-top: 12px;">
-        <a href="https://www.linkedin.com/in/denizyilmaz2021/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
-        <a href="mailto:dnzylmz2021@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
-      </div>
-    </td>
-    <td valign="top" align="center">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/Gokhan-IRTEM.png" width="60">
-          </td>
-          <td valign="middle">
-            <h2 style="margin: 0;">Gökhan İrtem</h2>
-            <p style="margin: 0;"><span>Designer</span></p>
-          </td>
-        </tr>
-      </table>
-      <hr>
-      <div style="margin-top: 12px;">
-        <a href="https://gokhan-irtem.github.io/Resume/">
-          <img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/Gokhan-IRTEM"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
-      </div>
-      <div style="margin-top: 12px;">
-        <a href="https://www.linkedin.com/in/gökhanirtem1/"><img src="https://img.shields.io/badge/LinkedIn-000099?style=plastic&logo=linkedin&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="LinkedIn"></a> 
-        <a href="mailto:gokirtem@gmail.com"><img src="https://img.shields.io/badge/Email-C54219?style=plastic&logo=gmail&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="Email"></a>
-    </td>
   </tr>
 </table>
 
