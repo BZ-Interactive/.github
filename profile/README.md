@@ -27,10 +27,10 @@
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools and Applications
 
 <div align="center">
-  <a href="https://bz-interactive.github.io/BZ-Nota/"><img src="assets/tools/BZ-Nota.svg" width="45%"></a> 
+  <a href="https://bz-interactive.github.io/BZ-Nota/"><img src="assets/tools/BZ-Nota.svg" width="45%"></a> <a href="https://bz-interactive.github.io/BZ-Big-Picture/"><img src="assets/tools/BZ-Big-Picture.svg" width="45%"></a>
 </div>
 
 ---
