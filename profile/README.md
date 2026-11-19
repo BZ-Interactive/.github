@@ -50,7 +50,7 @@
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td valign="middle" style="padding-right: 10px;">
-            <img src="https://github.com/ZorluBarkin.png" width="60">
+            <img src="https://github.com/ZorluBarking.png" width="60">
           </td>
           <td valign="middle">
             <h2 style="margin: 0;">Barkın Zorlu</h2>
@@ -60,7 +60,7 @@
       </table>
       <hr>
       <div style="margin-top: 12px;">
-        <a href="https://zorlubarkin.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
+        <a href="https://zorlubarking.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
         <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
