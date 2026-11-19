@@ -61,7 +61,7 @@
       <hr>
       <div style="margin-top: 12px;">
         <a href="https://zorlubarking.github.io/BZ-Resume/"><img src="https://img.shields.io/badge/Resume-ffffff?style=plastic&logo=libreofficewriter&logoColor=black&color=ffffff&labelColor=ffffff" style="width: auto; height: 28px;" valign="middle" alt="Resume"></a> 
-        <a href="https://github.com/ZorluBarkin"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
+        <a href="https://github.com/ZorluBarking"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=plastic&logo=github&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="GitHub"></a>
       </div>
       <div style="margin-top: 12px;">
         <a href="https://bz-interactive.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=plastic&logo=itch.io&logoColor=white" style="width: auto; height: 28px;" valign="middle" alt="itch.io"></a> 
